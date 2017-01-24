@@ -1,4 +1,4 @@
-# vue-i18n-es5
+# vue-i18n-es5 [![Build Status](https://travis-ci.org/Arrogance/vue-i18n-es5.svg?branch=master)](https://travis-ci.org/Arrogance/vue-i18n-es5)
 
 **Forked from [https://github.com/MattyRad/vue-i18n](https://github.com/MattyRad/vue-i18n)**
 
