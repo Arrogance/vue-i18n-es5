@@ -1,17 +1,17 @@
 {
-  "name": "voo-i18n",
-  "version": "1.0.9",
-  "description": "A small package for implementing translations in Vue.js",
-  "author": {
-    "name": "Matthew Radford",
-    "email": "matt.radford.unr@gmail.com"
-  },
+  "name": "voo-i18n-es5",
+  "version": "1.0.0",
+  "description": "A small package for implementing translations in Vue.js - Written in ES2015",
+  "authors": [
+    "Matthew Radford <matt.radford.unr@gmail.com>",
+    "Manuel Raya <manuel@arrogance.es>"
+  ],
   "repository": {
-    "url": "git+https://github.com/MattyRad/vue-i18n.git"
+    "url": "git+https://github.com/Arrogance/vue-i18n-es5.git"
   },
   "license": "MIT",
   "main": "src/main.js",
-  "homepage": "https://github.com/MattyRad/vue-i18n",
+  "homepage": "https://github.com/Arrogance/vue-i18n-es5",
   "keywords": [
     "vue",
     "vue.js",
@@ -30,12 +30,6 @@
   "devDependencies": {
     "vue": "^1.0.24",
     "browserify": "^12.0.1",
-    "browserify-hmr": "^0.3.1",
-    "cross-env": "^1.0.5",
-    "eslint": "^1.10.3",
-    "eslint-plugin-html": "^1.1.0",
-    "http-server": "^0.8.5",
-    "pug": "^2.0.0-beta7",
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.15",
     "karma-browserify": "^4.4.2",
@@ -43,12 +37,7 @@
     "karma-phantomjs-launcher": "^0.2.1",
     "karma-spec-reporter": "0.0.23",
     "phantomjs": "^1.9.19",
-    "proxyquireify": "^3.0.1",
-    "stylus": "^0.52.4",
-    "uglify-js": "^2.5.0",
-    "vue-hot-reload-api": "^1.2.2",
     "vueify": "^8.0.0",
-    "vueify-insert-css": "^1.0.0",
-    "watchify": "^3.4.0"
+    "proxyquireify": "^3.2.1"
   }
 }
